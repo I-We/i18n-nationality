@@ -1,6 +1,6 @@
 {
   "name": "@iwe/i18n-nationality",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "i18n for nationality",
   "typings": "index.d.ts",
   "keywords": [
